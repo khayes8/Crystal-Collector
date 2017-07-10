@@ -74,7 +74,7 @@ function genRanNum4() {
 
 //This function allows you to see the array the numbers are pushed to the the console
 function displayArray() {
-    console.dir(addArray);
+    console.log(addArray);
 }
 
 /*This function updates the total score by calling the "scoreTotal" id and 
